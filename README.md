@@ -1,6 +1,6 @@
 # Linux Shell
 
-A simple Linux shell implemented in C. This project is designed to mimic a basic shell environment, allowing users to execute commands, handle input/output redirection, and implement other fundamental shell functionalities.
+A simple Linux shell implemented in C by **Tanmay**. This project is designed to mimic a basic shell environment, allowing users to execute commands, handle input/output redirection, and implement other fundamental shell functionalities.
 
 ## Features
 
@@ -9,6 +9,10 @@ A simple Linux shell implemented in C. This project is designed to mimic a basic
 - Support for background processes using `&`
 - Command history and basic parsing
 - Extensible and modular structure
+
+## Why Learn a Shell Environment?
+
+Understanding and working with a shell environment is a critical skill for developers and system administrators. It helps in automating tasks, managing systems efficiently, and gaining deeper insights into how operating systems function. This project serves as a hands-on approach to learning the core concepts behind shell environments and systems programming in C.
 
 ## Getting Started
 
